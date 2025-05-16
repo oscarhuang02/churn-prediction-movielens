@@ -27,10 +27,6 @@ This project explores user ratings and genre trends of Disney-related movies usi
 - **Exploratory Analysis**: Visualized rating trends over time, by genre, and franchise status. Explored distribution and correlation between rating count and average score.
 - **Regression Modeling**: Ran OLS regressions to identify drivers of higher ratings. Included variables like franchise status, genre dummies, and interaction terms (e.g., franchise × animation). Retained statistically significant predictors to improve interpretability.
 
-🎬 Genre Interaction Effects on Ratings
-
-![Genre Interaction Plot](/notebooks/outputs/average_rating_by_decade.png)
-
 ## 📊 Key Findings
 
 - **Franchise Movies Drive Engagement**
