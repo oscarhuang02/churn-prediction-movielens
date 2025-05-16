@@ -29,7 +29,7 @@ This project explores user ratings and genre trends of Disney-related movies usi
 
 🎬 Genre Interaction Effects on Ratings
 
-![Genre Interaction Plot](outputs/average_rating_by_decade.png)
+![Genre Interaction Plot](/notebooks/outputs/average_rating_by_decade.png)
 
 ## 📊 Key Findings
 
