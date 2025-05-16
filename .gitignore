@@ -172,3 +172,23 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# VSCode
+.vscode/
